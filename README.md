@@ -1,0 +1,2 @@
+# MiniCC
+MiniCC by HNU
